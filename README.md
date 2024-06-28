@@ -1,0 +1,2 @@
+# MergeGitConflict
+Merge Conflict Demo
